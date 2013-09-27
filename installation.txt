@@ -1,0 +1,57 @@
+Envoyer un tweet vers un ou plusieurs comptes Tweeter en PHP.
+
+1) Créer une application à partir du compte Twitter :
+
+https://dev.twitter.com/apps/new
+
+Application Detail :
+
+- Name : sendTweetNekrofage
+  Description : Send a tweet to my Nekrofage account
+  Website : http://steamcyberpunk.net
+
+- Yes, I agree : V
+
+- [Create your Twitter application]
+
+2) Sauvegarder :
+
+- Consumer key : tb5bozgivet666bazeillesxtbBw
+- Consumer secret : 4sBn5kKyuUnivet666bazeillex8la7QFm2OI
+
+3) Paramètrage :
+
+- [Settings]
+    - Application type
+      - Access
+         Read, Write and Access direct messages : o
+    - Update this Twitter application's settings
+      
+Vérification : 
+
+- [Details]
+  - OAuth settings
+    - Access level : Read, write, and direct messages 
+    
+4) Création des tokens : 
+
+- Your access token
+    - [Create my access token]
+
+5) Sauvegardes les tokens :
+
+- Access token : 136663562-UpofVTzivet666bazeillejB2qwBzTSdFuv
+- Access token secret : auTbyivet666bazeilleK8ABxqUAJu6qY7RTW4
+
+6) Configuration : 
+
+Dans "twitterUser.php", remplacer les paramètres par défaut par ceux ci-dessus.
+
+7) Test : 
+
+http://localhost/tweet/index.php
+
+8) Liens : 
+
+www.tech-faq.com/send-tweets-to-your-twitter-account-via-php.html
+
