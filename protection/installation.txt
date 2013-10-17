@@ -1,0 +1,7 @@
+1) Copier .htaccess dans /home/monsite/public_html/gazouilleur
+
+2) Générer le mot de passe pour l'utilisateur "utilisateur"
+
+3) Copier le mot de passe dans .htpasswd
+
+4) Copier .htpasswd dans /home/monsite/protection
